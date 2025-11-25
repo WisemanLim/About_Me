@@ -1,4 +1,4 @@
-> 임복출, Wiseman Lim
+# 임복출, Wiseman Lim
 >
 > **\[희망직무\]COO(Chief Operating Officer)/CTO(Chief Technology Officer), AI/ML Engineer Leader, Cloud/BigData Engineer Leader**
 >
